@@ -1,0 +1,14 @@
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\bin\Debug\net8.0\BeoreFactory.exe
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\bin\Debug\net8.0\BeoreFactory.deps.json
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\bin\Debug\net8.0\BeoreFactory.runtimeconfig.json
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\bin\Debug\net8.0\BeoreFactory.dll
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\bin\Debug\net8.0\BeoreFactory.pdb
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\obj\Debug\net8.0\BeoreFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\obj\Debug\net8.0\BeoreFactory.AssemblyInfoInputs.cache
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\obj\Debug\net8.0\BeoreFactory.AssemblyInfo.cs
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\obj\Debug\net8.0\BeoreFactory.csproj.CoreCompileInputs.cache
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\obj\Debug\net8.0\BeoreFactory.dll
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\obj\Debug\net8.0\refint\BeoreFactory.dll
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\obj\Debug\net8.0\BeoreFactory.pdb
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\obj\Debug\net8.0\BeoreFactory.genruntimeconfig.cache
+D:\DesignPattern\Creational\FactoryMethod&AbstractFactory\BeoreFactory\obj\Debug\net8.0\ref\BeoreFactory.dll
