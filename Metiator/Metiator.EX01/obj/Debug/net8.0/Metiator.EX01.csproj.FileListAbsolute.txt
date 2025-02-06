@@ -1,0 +1,14 @@
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\bin\Debug\net8.0\Metiator.EX01.exe
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\bin\Debug\net8.0\Metiator.EX01.deps.json
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\bin\Debug\net8.0\Metiator.EX01.runtimeconfig.json
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\bin\Debug\net8.0\Metiator.EX01.dll
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\bin\Debug\net8.0\Metiator.EX01.pdb
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\obj\Debug\net8.0\Metiator.EX01.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\obj\Debug\net8.0\Metiator.EX01.AssemblyInfoInputs.cache
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\obj\Debug\net8.0\Metiator.EX01.AssemblyInfo.cs
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\obj\Debug\net8.0\Metiator.EX01.csproj.CoreCompileInputs.cache
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\obj\Debug\net8.0\Metiator.EX01.dll
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\obj\Debug\net8.0\refint\Metiator.EX01.dll
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\obj\Debug\net8.0\Metiator.EX01.pdb
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\obj\Debug\net8.0\Metiator.EX01.genruntimeconfig.cache
+D:\DesignPattern\Behavioral\Metiator\Metiator.EX01\obj\Debug\net8.0\ref\Metiator.EX01.dll
