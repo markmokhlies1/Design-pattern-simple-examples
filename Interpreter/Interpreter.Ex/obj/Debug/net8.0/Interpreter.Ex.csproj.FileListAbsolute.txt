@@ -1,0 +1,14 @@
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\bin\Debug\net8.0\Interpreter.Ex.exe
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\bin\Debug\net8.0\Interpreter.Ex.deps.json
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\bin\Debug\net8.0\Interpreter.Ex.runtimeconfig.json
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\bin\Debug\net8.0\Interpreter.Ex.dll
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\bin\Debug\net8.0\Interpreter.Ex.pdb
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\obj\Debug\net8.0\Interpreter.Ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\obj\Debug\net8.0\Interpreter.Ex.AssemblyInfoInputs.cache
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\obj\Debug\net8.0\Interpreter.Ex.AssemblyInfo.cs
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\obj\Debug\net8.0\Interpreter.Ex.csproj.CoreCompileInputs.cache
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\obj\Debug\net8.0\Interpreter.Ex.dll
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\obj\Debug\net8.0\refint\Interpreter.Ex.dll
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\obj\Debug\net8.0\Interpreter.Ex.pdb
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\obj\Debug\net8.0\Interpreter.Ex.genruntimeconfig.cache
+D:\DesignPattern\Behavioral\Interpreter\Interpreter.Ex\obj\Debug\net8.0\ref\Interpreter.Ex.dll

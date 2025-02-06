@@ -1,0 +1,14 @@
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\bin\Debug\net8.0\Iterator EX01.exe
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\bin\Debug\net8.0\Iterator EX01.deps.json
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\bin\Debug\net8.0\Iterator EX01.runtimeconfig.json
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\bin\Debug\net8.0\Iterator EX01.dll
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\bin\Debug\net8.0\Iterator EX01.pdb
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\obj\Debug\net8.0\Iterator EX01.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\obj\Debug\net8.0\Iterator EX01.AssemblyInfoInputs.cache
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\obj\Debug\net8.0\Iterator EX01.AssemblyInfo.cs
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\obj\Debug\net8.0\Iterator EX01.csproj.CoreCompileInputs.cache
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\obj\Debug\net8.0\Iterator EX01.dll
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\obj\Debug\net8.0\refint\Iterator EX01.dll
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\obj\Debug\net8.0\Iterator EX01.pdb
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\obj\Debug\net8.0\Iterator EX01.genruntimeconfig.cache
+D:\DesignPattern\Behavioral\Iterator\Iterator EX01\obj\Debug\net8.0\ref\Iterator EX01.dll
