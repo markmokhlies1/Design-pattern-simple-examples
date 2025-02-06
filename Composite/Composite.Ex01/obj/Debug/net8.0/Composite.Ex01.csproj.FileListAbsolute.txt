@@ -1,0 +1,14 @@
+D:\DesignPattern\Structural\Composite\Composite.Ex01\bin\Debug\net8.0\Composite.Ex01.exe
+D:\DesignPattern\Structural\Composite\Composite.Ex01\bin\Debug\net8.0\Composite.Ex01.deps.json
+D:\DesignPattern\Structural\Composite\Composite.Ex01\bin\Debug\net8.0\Composite.Ex01.runtimeconfig.json
+D:\DesignPattern\Structural\Composite\Composite.Ex01\bin\Debug\net8.0\Composite.Ex01.dll
+D:\DesignPattern\Structural\Composite\Composite.Ex01\bin\Debug\net8.0\Composite.Ex01.pdb
+D:\DesignPattern\Structural\Composite\Composite.Ex01\obj\Debug\net8.0\Composite.Ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPattern\Structural\Composite\Composite.Ex01\obj\Debug\net8.0\Composite.Ex01.AssemblyInfoInputs.cache
+D:\DesignPattern\Structural\Composite\Composite.Ex01\obj\Debug\net8.0\Composite.Ex01.AssemblyInfo.cs
+D:\DesignPattern\Structural\Composite\Composite.Ex01\obj\Debug\net8.0\Composite.Ex01.csproj.CoreCompileInputs.cache
+D:\DesignPattern\Structural\Composite\Composite.Ex01\obj\Debug\net8.0\Composite.Ex01.dll
+D:\DesignPattern\Structural\Composite\Composite.Ex01\obj\Debug\net8.0\refint\Composite.Ex01.dll
+D:\DesignPattern\Structural\Composite\Composite.Ex01\obj\Debug\net8.0\Composite.Ex01.pdb
+D:\DesignPattern\Structural\Composite\Composite.Ex01\obj\Debug\net8.0\Composite.Ex01.genruntimeconfig.cache
+D:\DesignPattern\Structural\Composite\Composite.Ex01\obj\Debug\net8.0\ref\Composite.Ex01.dll
