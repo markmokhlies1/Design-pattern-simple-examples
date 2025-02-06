@@ -1,0 +1,14 @@
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\bin\Debug\net8.0\FlyWeight.Ex02.exe
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\bin\Debug\net8.0\FlyWeight.Ex02.deps.json
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\bin\Debug\net8.0\FlyWeight.Ex02.runtimeconfig.json
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\bin\Debug\net8.0\FlyWeight.Ex02.dll
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\bin\Debug\net8.0\FlyWeight.Ex02.pdb
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\obj\Debug\net8.0\FlyWeight.Ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\obj\Debug\net8.0\FlyWeight.Ex02.AssemblyInfoInputs.cache
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\obj\Debug\net8.0\FlyWeight.Ex02.AssemblyInfo.cs
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\obj\Debug\net8.0\FlyWeight.Ex02.csproj.CoreCompileInputs.cache
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\obj\Debug\net8.0\FlyWeight.Ex02.dll
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\obj\Debug\net8.0\refint\FlyWeight.Ex02.dll
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\obj\Debug\net8.0\FlyWeight.Ex02.pdb
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\obj\Debug\net8.0\FlyWeight.Ex02.genruntimeconfig.cache
+D:\DesignPattern\Structural\FlyWeiht\FlyWeight.Ex02\obj\Debug\net8.0\ref\FlyWeight.Ex02.dll

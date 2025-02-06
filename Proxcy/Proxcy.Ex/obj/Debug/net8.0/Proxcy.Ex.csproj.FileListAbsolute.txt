@@ -1,0 +1,14 @@
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\bin\Debug\net8.0\Proxcy.Ex.exe
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\bin\Debug\net8.0\Proxcy.Ex.deps.json
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\bin\Debug\net8.0\Proxcy.Ex.runtimeconfig.json
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\bin\Debug\net8.0\Proxcy.Ex.dll
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\bin\Debug\net8.0\Proxcy.Ex.pdb
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\obj\Debug\net8.0\Proxcy.Ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\obj\Debug\net8.0\Proxcy.Ex.AssemblyInfoInputs.cache
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\obj\Debug\net8.0\Proxcy.Ex.AssemblyInfo.cs
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\obj\Debug\net8.0\Proxcy.Ex.csproj.CoreCompileInputs.cache
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\obj\Debug\net8.0\Proxcy.Ex.dll
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\obj\Debug\net8.0\refint\Proxcy.Ex.dll
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\obj\Debug\net8.0\Proxcy.Ex.pdb
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\obj\Debug\net8.0\Proxcy.Ex.genruntimeconfig.cache
+D:\DesignPattern\Structural\Proxcy\Proxcy.Ex\obj\Debug\net8.0\ref\Proxcy.Ex.dll
