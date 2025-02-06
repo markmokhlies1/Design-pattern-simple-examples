@@ -1,0 +1,14 @@
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\bin\Debug\net8.0\TempleteMethod.EX02.exe
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\bin\Debug\net8.0\TempleteMethod.EX02.deps.json
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\bin\Debug\net8.0\TempleteMethod.EX02.runtimeconfig.json
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\bin\Debug\net8.0\TempleteMethod.EX02.dll
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\bin\Debug\net8.0\TempleteMethod.EX02.pdb
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\obj\Debug\net8.0\TempleteMethod.EX02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\obj\Debug\net8.0\TempleteMethod.EX02.AssemblyInfoInputs.cache
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\obj\Debug\net8.0\TempleteMethod.EX02.AssemblyInfo.cs
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\obj\Debug\net8.0\TempleteMethod.EX02.csproj.CoreCompileInputs.cache
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\obj\Debug\net8.0\TempleteMethod.EX02.dll
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\obj\Debug\net8.0\refint\TempleteMethod.EX02.dll
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\obj\Debug\net8.0\TempleteMethod.EX02.pdb
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\obj\Debug\net8.0\TempleteMethod.EX02.genruntimeconfig.cache
+D:\DesignPattern\Behavioral\TemplateMethod\TempleteMethod.EX02\obj\Debug\net8.0\ref\TempleteMethod.EX02.dll
