@@ -1,0 +1,14 @@
+D:\DesignPattern\Behavioral\State\State.Before\bin\Debug\net8.0\State.Before.exe
+D:\DesignPattern\Behavioral\State\State.Before\bin\Debug\net8.0\State.Before.deps.json
+D:\DesignPattern\Behavioral\State\State.Before\bin\Debug\net8.0\State.Before.runtimeconfig.json
+D:\DesignPattern\Behavioral\State\State.Before\bin\Debug\net8.0\State.Before.dll
+D:\DesignPattern\Behavioral\State\State.Before\bin\Debug\net8.0\State.Before.pdb
+D:\DesignPattern\Behavioral\State\State.Before\obj\Debug\net8.0\State.Before.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPattern\Behavioral\State\State.Before\obj\Debug\net8.0\State.Before.AssemblyInfoInputs.cache
+D:\DesignPattern\Behavioral\State\State.Before\obj\Debug\net8.0\State.Before.AssemblyInfo.cs
+D:\DesignPattern\Behavioral\State\State.Before\obj\Debug\net8.0\State.Before.csproj.CoreCompileInputs.cache
+D:\DesignPattern\Behavioral\State\State.Before\obj\Debug\net8.0\State.Before.dll
+D:\DesignPattern\Behavioral\State\State.Before\obj\Debug\net8.0\refint\State.Before.dll
+D:\DesignPattern\Behavioral\State\State.Before\obj\Debug\net8.0\State.Before.pdb
+D:\DesignPattern\Behavioral\State\State.Before\obj\Debug\net8.0\State.Before.genruntimeconfig.cache
+D:\DesignPattern\Behavioral\State\State.Before\obj\Debug\net8.0\ref\State.Before.dll

@@ -1,0 +1,14 @@
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\bin\Debug\net8.0\Stratgy.After.exe
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\bin\Debug\net8.0\Stratgy.After.deps.json
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\bin\Debug\net8.0\Stratgy.After.runtimeconfig.json
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\bin\Debug\net8.0\Stratgy.After.dll
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\bin\Debug\net8.0\Stratgy.After.pdb
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\obj\Debug\net8.0\Stratgy.After.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\obj\Debug\net8.0\Stratgy.After.AssemblyInfoInputs.cache
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\obj\Debug\net8.0\Stratgy.After.AssemblyInfo.cs
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\obj\Debug\net8.0\Stratgy.After.csproj.CoreCompileInputs.cache
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\obj\Debug\net8.0\Stratgy.After.dll
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\obj\Debug\net8.0\refint\Stratgy.After.dll
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\obj\Debug\net8.0\Stratgy.After.pdb
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\obj\Debug\net8.0\Stratgy.After.genruntimeconfig.cache
+D:\DesignPattern\Behavioral\Stratgy\Stratgy.After\obj\Debug\net8.0\ref\Stratgy.After.dll
